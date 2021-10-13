@@ -1,6 +1,6 @@
 FROM gitpod/workspace-full:latest
 
-RUN apt-get update && apt-get upgrade && apt-get install -y build-essential
+RUN sudo apt-get update && sudo apt-get upgrade && apt-get install -y build-essential
 
 WORKDIR /workspace
 
