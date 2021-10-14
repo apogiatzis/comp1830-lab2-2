@@ -10,7 +10,7 @@
 	"gasLimit": "2100000",
 	"alloc":{
 	        "<YOUR ADDRESS HERE>": {
-			"balance": "300000"
+			"balance": "30000000000000000000"
 		}
 	}
 }
